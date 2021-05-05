@@ -1,6 +1,7 @@
 ## SnapSun
-Create timelapse video of sun at a particular day using python
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/FaizAlam/TimeLapse-Gif-Creator/blob/main/Timelapse_project.ipynb)
+
+Create timelapse video of sun at a particular day using python
 
 Example [2021-01-03]: 
 
